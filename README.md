@@ -23,6 +23,6 @@ Esboço do curso de AWS
 
 ## SES
 
-## Lambda
+## Lambda / API Gateway
 
 ## Cloudwatch
