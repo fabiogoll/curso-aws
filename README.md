@@ -5,12 +5,24 @@ Esboço do curso de AWS
 
 ## Criação da conta
 
-## RDS
-
 ## EC2
+
+## RDS
 
 ## S3
 
 ## Route 53
 
+## IAM
+
 ## Elastic Beanstalk
+
+## Cloudfront
+
+## SQS
+
+## SES
+
+## Lambda
+
+## Cloudwatch
